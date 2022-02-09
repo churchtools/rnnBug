@@ -1,0 +1,8 @@
+- `npm install`
+- ``npm run start``
+- Start Emulator with Android 9
+- ``npm run android``
+- click on `edit` in top bar
+- click on input field such that keyboard opens
+- click on ``cancel`` in top bar
+- Screen is halved, but bottom bar is at the bottom. 
